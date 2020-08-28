@@ -1,5 +1,5 @@
 {
-  "name": "vuepress-plugin-fontawesome",
+  "name": "@nine-theme/vuepress-plugin-fontawesome",
   "version": "0.0.1",
   "description": "vuepress plugin fontawsome",
   "main": "index.js",
