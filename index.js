@@ -9,6 +9,7 @@ module.exports = (options, context) => {
       path.resolve(__dirname, 'bin', 'enhanceAppFile.js'),
       iconsFile
     ],
+    name: '@nine-theme/vuepress-plugin-fontawesome',
 
     chainMarkdown (config) {
       config.plugin('fontawesome').use(fontAwesomePlugin)

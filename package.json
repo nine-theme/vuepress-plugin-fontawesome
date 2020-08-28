@@ -1,6 +1,6 @@
 {
   "name": "@nine-theme/vuepress-plugin-fontawesome",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "vuepress plugin fontawsome",
   "main": "index.js",
   "scripts": {
