@@ -1,4 +1,4 @@
-# vuepress-plugin-fontawesome
+# @nine-theme/vuepress-plugin-fontawesome
 ![GitHub last commit](https://img.shields.io/github/last-commit/nine-theme/vuepress-plugin-fontawesome) 
 ![npm (scoped)](https://img.shields.io/npm/v/@nine-theme/vuepress-plugin-fontawesome) 
 ![npm](https://img.shields.io/npm/dt/@nine-theme/vuepress-plugin-fontawesome) 
