@@ -1,4 +1,4 @@
-const iconPattern = /\:(fa\w)-([\w\-]+)\:/
+const iconPattern = /:(fa\w)-([\w-]+):/
 const replacePattern = new RegExp(iconPattern.source, 'g')
 
 module.exports = md => {

@@ -12,7 +12,7 @@ import { fas } from '@fortawesome/free-solid-svg-icons'
 library.add(fab, far, fas)
 
 export default ({ Vue }) => {
-  Vue.component('font-awesome-icon', FontAwesomeIcon)
-  Vue.component('font-awesome-layers', FontAwesomeLayers)
-  Vue.component('font-awesome-layers-text', FontAwesomeLayersText)
+  Vue.component('FontAwesomeIcon', FontAwesomeIcon)
+  Vue.component('FontAwesomeLayers', FontAwesomeLayers)
+  Vue.component('FontAwesomeLayersText', FontAwesomeLayersText)
 }
