@@ -1,6 +1,6 @@
 {
   "name": "@nine-theme/vuepress-plugin-fontawesome",
-  "version": "0.0.3-alpha.0",
+  "version": "0.0.3-alpha.5",
   "description": "vuepress plugin fontawsome",
   "main": "index.js",
   "scripts": {
@@ -32,5 +32,6 @@
   },
   "devDependencies": {
     "vuepress": "^1.5.4"
-  }
+  },
+  "gitHead": "4613eeb20a0e1e38cebfa4c2b1fc5f7d20572bb3"
 }
